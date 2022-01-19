@@ -26,7 +26,7 @@ Welcome to my React and Node Project to build a fully-functional e-commerce webs
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com L/.git
+$ git clone git@github.com La/.git
 $ cd Laptop Store
 ```
 
