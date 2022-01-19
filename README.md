@@ -6,8 +6,8 @@ Welcome to my React and Node Project to build a fully-functional e-commerce webs
 
 ## Demo Website
 
-- 👉 Heroku : [https://react-amazona.herokuapp.com]()
-- 👉 Heroku Mirror: [https://react-amazona-mirror.herokuapp.com]()
+- 👉 Heroku : [https]()
+- 👉 Heroku Mirror: [https]()
 
 
 ## You Will Learn
@@ -26,8 +26,8 @@ Welcome to my React and Node Project to build a fully-functional e-commerce webs
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
-$ cd amazona
+$ git clone git@github.com/.git
+$ cd Laptop Store
 ```
 
 ### 2. Setup MongoDB
