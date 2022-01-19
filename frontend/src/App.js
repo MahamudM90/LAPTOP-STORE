@@ -65,7 +65,7 @@ function App() {
               <i className="fa fa-bars"></i>
             </button>
             <Link className="brand" to="/">
-              amazona
+              LAPTOP-STORE
             </Link>
           </div>
           <div>
@@ -314,7 +314,7 @@ function App() {
         </main>
         <footer className="row center">
           {userInfo && !userInfo.isAdmin && <ChatBox userInfo={userInfo} />}
-          <div>All right reserved</div>{' '}
+          ©️2022 LAPTOPSTORE All RIGHTS RESERVED.{' '}
         </footer>
       </div>
     </BrowserRouter>
