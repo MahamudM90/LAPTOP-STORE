@@ -29,9 +29,7 @@ header {
   grid-area: header;
   background-color: #203040;
 }
-header.brand:hover{
-  background-color: #a02020;
-}
+
 
 main {
   grid-area: main;

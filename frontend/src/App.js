@@ -65,7 +65,7 @@ function App() {
               <i className="fa fa-bars"></i>
             </button>
             <Link className="brand" to="/">
-              LAPTOP-STORE
+              LAPTOPSTORE
             </Link>
           </div>
           <div>
@@ -314,7 +314,9 @@ function App() {
         </main>
         <footer className="row center">
           {userInfo && !userInfo.isAdmin && <ChatBox userInfo={userInfo} />}
-          ©️2022 LAPTOPSTORE All RIGHTS RESERVED.{' '}
+           <a href="https://mahamudportfolio.netlify.app/">
+          ©️ 2022 LAPTOPSTORE ALL RIGHT RESERVED.
+            </a> {' '}
         </footer>
       </div>
     </BrowserRouter>
