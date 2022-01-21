@@ -2,7 +2,7 @@
 ![](/template/images/amazon.jpg)
 
 
-Welcome to my React and Node Project to build a fully-functional e-commerce website thats name LAPTO. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
+Welcome to my React and Node Project to build a fully-functional e-commerce website thats name LAPTOP. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
 ## Demo Website
 
