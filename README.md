@@ -290,7 +290,7 @@ $ npm start
     1. build create product api
     2. build Create Product button
     3. define product create constant, action and reducer
-    4. use action in Product List Screen
+    4. use action in Product aList Screen
 38. Build Product Edit Screen
     1. create edit screen
     2. define state
