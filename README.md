@@ -426,4 +426,4 @@ $ npm start
      13. replace props.match.params.id with const params = useParams();
      14. replace props.location.search with const { search } = useLocation(); and URLSearchParams
      15. replace props.match.path with const {pathname} = useLocation();
-     16. put userInfo in useEffect in ChatBox, SupportScreen.
+     16. put userInfo in useEffect in ChatBox a SupportScreen.
